@@ -1,3 +1,4 @@
+Artificial Neural Networks and Deep Learning course, 2024 Spring, Graduate School of Seoul National University of Science and Technology
 # Assignment \#1 MNIST Classification
 
 ## Q1
